@@ -1,0 +1,10 @@
+{
+  "T_beta_true": 50.0,
+  "T_beta_estimated": 49.0,
+  "q_window_duration": 1470.0,
+  "q_window_stride": 245.0,
+  "mean_q_true": 1.1130045479215336,
+  "mean_q_reconstructed": 1.1131899396256966,
+  "standard_deviation_q_true": 0.04069751777885074,
+  "standard_deviation_q_reconstructed": 0.03792896204525878
+}

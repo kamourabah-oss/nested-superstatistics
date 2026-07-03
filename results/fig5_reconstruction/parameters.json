@@ -1,0 +1,18 @@
+{
+  "beta0": 1.0,
+  "tau_u": 1.0,
+  "tau_beta": 50.0,
+  "tau_q": 10000.0,
+  "dt": 0.2,
+  "n0": 20.0,
+  "sigma_eta": 0.35,
+  "n_min": 5.05,
+  "total_time": 1000000.0,
+  "seed": 12345,
+  "q_window_blocks": 30,
+  "q_window_stride": 5,
+  "autocorrelation_max_lag": 4000.0,
+  "ratio_x_max": 12.0,
+  "ratio_y_min": 0.94,
+  "ratio_y_max": 1.06
+}
